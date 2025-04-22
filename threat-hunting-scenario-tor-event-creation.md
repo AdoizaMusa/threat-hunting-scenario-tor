@@ -74,7 +74,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Adoiza Musa
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/adoizamusa/
 - **Date**: February 26, 2025
 
 ## Validated By:
